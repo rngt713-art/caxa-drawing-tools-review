@@ -1,0 +1,21 @@
+{
+  "caxa_server_ip": "caxa.example.internal",
+  "caxa_server_port": "8900",
+  "caxa_user": "",
+  "caxa_password_enc": "",
+  "vision_server": "http://127.0.0.1:8080",
+  "vision_script": "",
+  "vision_thinking": false,
+  "timeout_seconds": 60,
+  "pending_folder": "",
+  "excel_output": "",
+  "dup_new_version": false,
+  "borrow_only_missing": true,
+  "duplicate_policy": "append_iteration",
+  "start_workflow_after_upload": false,
+  "workflow_performer": "审核人",
+  "workflow_template_id": 1,
+  "workflow_template_instance_id": 31,
+  "workflow_process_def_id": "2",
+  "workflow_activity_def_id": "4"
+}

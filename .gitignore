@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+build/
+dist/
+
+config.json
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+*.bak-*
+
+tests/_tmp/
+tests/probe_*/
+tests/tmp*/

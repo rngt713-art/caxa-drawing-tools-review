@@ -1,0 +1,7 @@
+openpyxl
+Pillow
+pypdf
+pypdfium2
+pdfplumber
+requests
+tkinterdnd2
